@@ -1,4 +1,5 @@
-# Neural_Networks-and-DL
+# Machine Learning, Deep Learning and Neural Networks
+
 This is a repository which contains programs related to Neural Networks implementation and Deep Learning Models. Programming language used is Python.
 
 * # CNN Model On Cats and Dogs Dataset
