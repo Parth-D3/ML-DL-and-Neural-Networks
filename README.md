@@ -16,3 +16,8 @@ This is a repository which contains programs related to Neural Networks implemen
   <br>This is a model to detect spam messages using Long Short Term Memory (LSTM) alogrithm. Shape of the dataset is (6776, 5).
   <br>
   <p>In this model, I learnt how word embeddings are used in Natural Language Processing. I also learnt the concept of tokenization and sequencing. Thus, overall this project provided me with an insight about NLP. After hyperparameter tuning, the maximum accuracy is 99.63%</p>
+
+
+* # Logistic Regression Model for Rain Prediction
+  <br>This is a model to predict whether rain will occur tomorrow or not. The machine learning algorithm used is logistic regression as the target variable is discrete. The dataset is obtained from kaggle titled 'Rain Dataset for Australia'. The shape of the dataset is (145460, 23).<br>
+  <p>In this model, I learnt how the logistic regression algorithm works and how to implement it. While using this algorithm, I got to know about concepts like Imputing, Scaling of dataset and how to apply them. The dataset also had 'NaN' values and I was able to handle these missing values using various approaches. the final accuracy of the model is 84.61%</p>
